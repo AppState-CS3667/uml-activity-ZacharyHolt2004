@@ -1,3 +1,5 @@
 1. What are the primary actors?
     - The primary actors of SelfCheckout.png are Shoppers,
       split into minors and adults.
+2. What are the secondary actors?
+    - The secondary actors of SelfCheckout.png are the employees.
