@@ -1,0 +1,18 @@
+1. What are the primary actors?
+    - The primary actors of SelfCheckout.png are Shoppers,
+      split into minors and adults.
+2. What are the secondary actors?
+    - The secondary actors of SelfCheckout.png are the employees.
+3. What type of word describes the use cases?
+    - The type of word that describes the use case is a verb.
+4. What type of word describes the actors.
+    - The word describing the actors is a noun.
+5. Why are the primary actors primary?
+    - The primary actors are primary because they cover the majority of interactions with the product.
+6. Why are the secondary actors secondary?
+    - The secondary actors are secondary because they cover more specific use cases, which may be unique from the general
+      case.
+7. Why does verify ID extend scan items?
+    - Perhaps verifying the ID involves scanning it.
+8. Why does scan items include check cart for items?
+    - The user will have to check the cart for items in order to scan an item.
