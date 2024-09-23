@@ -26,15 +26,15 @@ public class Burner{
     }
 
     public double getDiameter(){
-
+        return -1;
     }
 
     public double getMaxTemp(){
-
+        return -1;
     }
 
     public double getMinTemp(){
-
+        return -1;
     }
 
     public boolean isHot(){

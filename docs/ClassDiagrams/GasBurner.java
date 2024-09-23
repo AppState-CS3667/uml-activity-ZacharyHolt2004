@@ -12,7 +12,7 @@ public class GasBurner extends Burner{
     }
 
     public String getGasType(){
-
+        return null;
     }
 
     private void increaseGasFlow(){
